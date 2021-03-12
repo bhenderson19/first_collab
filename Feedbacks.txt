@@ -1,0 +1,7 @@
+Hi both,
+
+Glad to see you made commits to the repo. It seems you have made some progess on git.
+The next step is to work together on the same file to see what happens if you both try to push your changes.
+
+Thanks,
+Zixuan
